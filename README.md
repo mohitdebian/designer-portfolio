@@ -2,7 +2,7 @@
 
 A simple portfolio website built with HTML and CSS.
 
-##H2
+## H2
 
 ### Live URL
 
